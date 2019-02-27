@@ -1,0 +1,28 @@
+<ng-template #content let-modal><app-model-edit></app-model-edit></ng-template>
+<div class="card bg-light  mb-3">
+   <div class="card-body">
+      <h3 class="card-title fas fa-user-graduate fa-2x"> {{student.name}}</h3>
+      <p> <i class="fas fa-id-card-alt"></i> {{student.id}}</p>
+      <p> <i class="fas fa-user-clock"></i> {{student.age}}</p>
+   </div>
+   <div ngbDropdown class="d-inline-block">
+      <button class="btn btn-outline-primary btn-block" type="button" data-toggle="collapse"
+         [attr.data-target]="'#student' + student.id" aria-expanded="false" aria-controls="aaa">
+         Courses
+      </button>
+      <div class="collapse test" [attr.id]="'student'+ student.id">
+         <div class="card text-white bg-primary card-body" *ngFor="let course of student.courses">
+            <div>
+               {{course.name}}
+            </div>
+         </div>
+      </div>
+      <button class="btn btn-outline-success btn-block " id="dropdownBasic1"
+      (click)="open(content)">Edit</button>
+         
+      <span></span>
+   </div>
+   <button class="btn btn-outline-danger btn-block" id="dropdownBasic1" (click)="onClickMe(student.id)"> Delete
+         
+   </button>
+</div>

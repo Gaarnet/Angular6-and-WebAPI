@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WebAPITest\WebAPITest\bin\Debug\netcoreapp2.1\WebAPITest.deps.json
+C:\Users\User\source\repos\WebAPITest\WebAPITest\bin\Debug\netcoreapp2.1\WebAPITest.runtimeconfig.json
+C:\Users\User\source\repos\WebAPITest\WebAPITest\bin\Debug\netcoreapp2.1\WebAPITest.runtimeconfig.dev.json
+C:\Users\User\source\repos\WebAPITest\WebAPITest\bin\Debug\netcoreapp2.1\WebAPITest.dll
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.AssemblyInfo.cs
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\WebAPITest\WebAPITest\bin\Debug\netcoreapp2.1\WebAPITest.pdb
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.dll
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.pdb
+C:\Users\User\source\repos\WebAPITest\WebAPITest\obj\Debug\netcoreapp2.1\WebAPITest.csprojAssemblyReference.cache
