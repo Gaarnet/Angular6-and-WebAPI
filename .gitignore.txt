@@ -1,7 +1,7 @@
-*.suo
-*.user
-.vs/
+**.suo
+**.user
+**.vs
 _ReSharper.*
-bin/
-obj/
+**bin
+**obj
 packages
